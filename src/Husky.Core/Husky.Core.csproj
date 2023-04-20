@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AuxLabs.Twitch.Chat" Version="0.1.0-build.127" />
+    <PackageReference Include="AuxLabs.Twitch.EventSub" Version="0.1.0-build.127" />
+    <PackageReference Include="AuxLabs.Twitch.Rest" Version="0.1.0-build.127" />
+  </ItemGroup>
+
+</Project>
